@@ -1,0 +1,28 @@
+html.dark {
+  --document-bg-color:#141414;
+  --element-bg-color:#222222;
+  --font-color:#939393;
+  --font-hover-color:white;
+  --title-color:#007BFF;
+  --title-color-hover: #034d9f;
+  --btn-bg-color:#141414;
+  --btn-bg-hover-color: #3b3b3b;
+  --border-color:#333333;
+  --el-border-color-lighter: #333333;
+  --billboard-bg-color:#222222;
+  --billboard-content-bg-color: #343434;
+  --footer-background-color:var(--element-bg-color);
+  --el-border-color: #333333;
+  --logo-color: white;
+  --input-bg-color: var(--document-bg-color);
+  --ck-editor-header-bg:var(--document-bg-color);
+  --ck-editor-content-bg:var(--document-bg-color);
+  --ck-editor-text-color:#333333;
+  --ck-editor-border-color:#333333;
+  --scrollbar-background-color:#343434;
+  --scrollbar-scroll-color: #2f2f2f;
+  --shadow-color: rgba(255, 255, 255, 0.3);
+  --el-fill-color-blank:transparent;
+}
+
+/*# sourceMappingURL=darkTheme.css.map */
